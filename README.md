@@ -24,8 +24,8 @@ Project Kitty leverages pose estimation, machine learning, and video processing 
 ProjectKitty/ <br>
 ├── README.md <br>
 ├── requirements.txt <br>
-├── videos/ # Raw downloaded videos <br>
-├── standardized_videos/ # Preprocessed videos <br>
+├── videos/ # Raw downloaded videos....Not kept in the directory/drive(Too large) <br> 
+├── standardized_videos/ # Preprocessed videos...... [Drive link](https://drive.google.com/drive/folders/1dkJblUBHRqyztgMOAv28MtFGMUaJZ0D-?usp=sharing) <br>
 ├── segmented_videos/ # JSONs with keypoints/features/labels <br>
 ├── models/ # Trained model files (.pkl) <br>
 ├── chosen_models/ # Models with better performance chosen <br>
