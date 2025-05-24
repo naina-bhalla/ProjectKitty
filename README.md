@@ -35,7 +35,7 @@ ProjectKitty/ <br>
 │ ├── keypoint_extractor.py <br>
 │ ├── model_training.ipynb <br>
 │ └── analyzer.py <br>
-├── test_videos/ <br> #Contains videos used for displayed results
+├── test_videos/  #Contains videos used for displayed results <br>
 └── results/ # Output videos, reports <br>
 
 
